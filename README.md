@@ -1,16 +1,39 @@
-## Hi there 👋
+![Imagem](logo.jpeg)
 
-<!--
-**matheusraulinoo/matheusraulinoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Olá, meu nome é Matheus Raulino! Seja bem vindo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Um pouco mais sobre mim :
+
+Sou estudante de Ciência da Computação e muito interessado por desenvolvimento de jogos e desenvolvimento web. Atualmente estudo programação em Python, desenvolvimento web e manuseio da placa Arduino.
+
+Tenho interesse nas áreas de:
+
+- Desenvolvimento Front-end
+- Desenvolvimento Back-end
+- Desenvolvimento de jogos
+- Inteligência Artificial
+
+---
+
+##  Tecnologias que estudo atualmente : 
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Git e GitHub
+- C/C++(Arduino)
+
+
+## 📫 Contato
+
+📧 E-mail: matheusraulinoo@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/matheus-raulino-2b9a763b5/
+
+---
+
+## 🎯 O que eu desejo
+
+Busco melhorar, cada vez mais, minhas habilidades em programação e desenvolvimento de sistemas, contribuindo para projetos que futuramente farei e adquirindo ainda mais experiência de forma prática na área computacional.
