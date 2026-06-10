@@ -1,5 +1,5 @@
 
-# Olá, meu nome é Matheus Raulino! Seja bem vindo!
+# Olá, meu nome é Matheus Raulino! Seja bem vindo ao meu GitHub!
 
 ## 💻 Um pouco mais sobre mim :
 
@@ -14,7 +14,7 @@ Tenho interesse nas áreas de:
 
 ---
 
-##  Tecnologias que estudo atualmente : 
+##  👨🏻‍💻 Tecnologias que estudo atualmente : 
 
 - HTML5
 - CSS3
@@ -24,7 +24,7 @@ Tenho interesse nas áreas de:
 - C/C++(Arduino)
 
 
-## 📫 Contato
+##  Contato
 
 📧 E-mail: matheusraulinoo@gmail.com
 
@@ -32,6 +32,6 @@ Tenho interesse nas áreas de:
 
 ---
 
-## 🎯 O que eu desejo
+## 🔍 O que eu desejo
 
 Busco melhorar, cada vez mais, minhas habilidades em programação e desenvolvimento de sistemas, contribuindo para projetos que futuramente farei e adquirindo ainda mais experiência de forma prática na área computacional.
