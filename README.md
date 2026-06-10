@@ -1,5 +1,3 @@
-![Imagem](logo.jpeg)
-
 
 # Olá, meu nome é Matheus Raulino! Seja bem vindo!
 
